@@ -49,42 +49,42 @@ const latestTransactions = [
   {
     id: 1,
     title: "Subscription Renewal",
-    badge: "John Doe",
+    badge: "Liam Carter",
     image:
       "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=800",
-    count: 1400,
+    count: 1900,
   },
   {
     id: 2,
     title: "Payment for Services",
-    badge: "Jane Smith",
+    badge: "Sophia Martinez",
     image:
       "https://images.pexels.com/photos/4969918/pexels-photo-4969918.jpeg?auto=compress&cs=tinysrgb&w=800",
-    count: 2100,
+    count: 4100,
   },
   {
     id: 3,
     title: "Subscription Renewal",
-    badge: "Michael Johnson",
+    badge: "Mateo Kim",
     image:
       "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=800",
-    count: 1300,
+    count: 1200,
   },
   {
     id: 4,
     title: "Payment for Services",
-    badge: "Lily Adams",
+    badge: "Leila Ahmed",
     image:
       "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=800",
-    count: 2500,
+    count: 2800,
   },
   {
     id: 5,
     title: "Subscription Renewal",
-    badge: "Sam Brown",
+    badge: "Ethan Patel",
     image:
       "https://images.pexels.com/photos/1680175/pexels-photo-1680175.jpeg?auto=compress&cs=tinysrgb&w=800",
-    count: 1400,
+    count: 1000,
   },
 ];
 
